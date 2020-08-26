@@ -7,7 +7,7 @@ This repo is a list of the personal projects that I've done so far.
 
 | https://www.youtube.com/watch?v=xIo1AV4bAkE[Full Size Analog Synthesiser and 8-Step sequencer]
 | This is my final thesis project I did @ Purdue University. Whole project information https://upcommons.upc.edu/handle/2117/132157[here].
-| Advanced analog electronics 🎹
+| Advanced analog electronics
 
 | http://www.viewinstagramlikes.com/[View Instagram Likes webpage]
 | Designed a workaround to defeat Instagram's new policy of not showing the number of likes of a given post. As the live demo may be down, here are some link:instagram_likes[pictures].
