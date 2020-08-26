@@ -5,9 +5,9 @@ This repo is a list of the personal projects that I've done so far.
 |===
 | Project | Description | Technology
 
-| Test
-| Test 1
-| Python
+| https://www.youtube.com/watch?v=xIo1AV4bAkE[Full Size Analog Synthesiser and 8-Step sequencer]
+| This is my final thesis project I did @ Purdue University. Whole project information https://upcommons.upc.edu/handle/2117/132157[here].
+| Advanced analog electronics
 
 |===
 
