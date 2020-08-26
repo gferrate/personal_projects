@@ -10,12 +10,12 @@ This repo is a list of the personal projects that I've done so far.
 | Advanced analog electronics 🎹
 
 | Nixie Clock
-| 
-| Analog and digital electronics
+| A simple clock made with nixie lamps.
+| Analog and digital electronics.
 
 | LIFI transceiver
-| 
-| Analog and digital electronics
+| This project was done during my bachelor's degree @ UPC with a team of 10 people.
+| Analog and digital electronics, Firmware.
 
 | Raspberry pi-controlled RGB lights
 | 
@@ -25,16 +25,16 @@ This repo is a list of the personal projects that I've done so far.
 | 
 | Websockets, Python, Auth0
 
-| Hidden wireless chargning system
-| 
+| https://youtu.be/9EZ3YFH_VWI[Hidden wireless chargning system]
+| This is a hidden wireless charger I did for my bedroom. FALTA FOTO
 | Electronics
 
-| Lissajous courve generator robot
-| 
+| Lissajous courves generator robot.
+| A funny project I did while in quarintine. https://youtu.be/0zp_q6OYYE0[Video 1], https://youtu.be/nYk-S-x_AAA[Video 2].
 | Electronics (arduino and stepper motors)
 
-| RGB lights with music synchrony
-| 
+| Sound-synchronized RGB lights.
+| A funny project I did for a party. https://www.youtube.com/watch?v=w__XhEV1nsE[Video 1], https://youtu.be/vwnyji0PDqs[Video 2]
 | Analog and digital electronics, Arduino
 
 | Multiplayer real-time cards game
