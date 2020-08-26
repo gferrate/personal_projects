@@ -6,12 +6,16 @@ This repo is a list of the personal projects that I've done so far.
 | Project | Description | Technology
 
 | https://www.youtube.com/watch?v=xIo1AV4bAkE[Full Size Analog Synthesiser and 8-Step sequencer]
-| This is my final thesis project I did @ Purdue University. Whole project information https://upcommons.upc.edu/handle/2117/132157[here].
+| This is my final thesis project I did @ Purdue University. Whole project information https://upcommons.upc.edu/handle/2117/132157[here]. And more link:analog_synth[pictures here].
 | Advanced analog electronics
 
 | http://www.viewinstagramlikes.com/[View Instagram Likes webpage]
 | Designed a workaround to defeat Instagram's new policy of not showing the number of likes of a given post. As the live demo may be down, here are some link:instagram_likes[pictures].
 | Python, HTML, Javascript
+
+| http://juegodelbus.es/[Multiplayer real-time cards game]
+| A classic Spanish cards game made online during the quarintine! The repo is open https://github.com/gferrate/juego_del_bus[here].
+| Python, Websockets, Javascript
 
 | https://youtu.be/V6g_3A1sJ08[Nixie Clock]
 | A simple clock made with nixie lamps.
@@ -30,16 +34,12 @@ This repo is a list of the personal projects that I've done so far.
 | Electronics (arduino and stepper motors)
 
 | https://youtu.be/9EZ3YFH_VWI[Hidden wireless chargning system]
-| This is a hidden wireless charger I did for my bedroom. FALTA FOTO
+| This is a hidden wireless charger I did for my bedroom. link:wireless_charger[pictures here].
 | Electronics
 
 | Sound-synchronized RGB lights.
 | A funny project I did for a party. https://www.youtube.com/watch?v=w__XhEV1nsE[Video 1], https://youtu.be/vwnyji0PDqs[Video 2]
 | Analog and digital electronics, Arduino
-
-| http://juegodelbus.es/[Multiplayer real-time cards game]
-| A classic Spanish cards game made online during the quarintine! The repo is open https://github.com/gferrate/juego_del_bus[here].
-| Python, Websockets, Javascript
 
 | Multi-thousand visited https://www.drunk-translator.com/?lang=eng[prank webpage]
 | This is a prank webpage which simulates drunk behaviour. With over 20K visits.
