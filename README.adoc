@@ -1,0 +1,14 @@
+# Personal Projects - Gabriel Ferraté 
+
+This repo is a list of the personal projects that I've done so far.
+
+|===
+| Project | Description | Technology
+
+| Test
+| Test 1
+| Python
+
+|===
+
+Please take a look at my https://www.linkedin.com/in/gabriel-ferrat%C3%A9-cuartero-7b326a12b/[LinkedIn] to see my full experience
