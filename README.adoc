@@ -9,49 +9,45 @@ This repo is a list of the personal projects that I've done so far.
 | This is my final thesis project I did @ Purdue University. Whole project information https://upcommons.upc.edu/handle/2117/132157[here].
 | Advanced analog electronics 🎹
 
-| Nixie Clock
+| http://www.viewinstagramlikes.com/[View Instagram Likes webpage]
+| Designed a workaround to defeat Instagram's new policy of not showing the number of likes of a given post. As the live demo may be down, here are some link:instagram_likes[pictures].
+| Python, HTML, Javascript
+
+| https://youtu.be/V6g_3A1sJ08[Nixie Clock]
 | A simple clock made with nixie lamps.
-| Analog and digital electronics.
+| Analog and digital electronics, Arudino.
 
-| LIFI transceiver
+| https://youtu.be/ls0lmXF6Gcw[LI-FI transceiver]
 | This project was done during my bachelor's degree @ UPC with a team of 10 people.
-| Analog and digital electronics, Firmware.
+| Analog and digital electronics, Microcontroller, sound processing.
 
-| Raspberry pi-controlled RGB lights
-| 
-| Analog and digital electronics, Python
-
-| Automatic mechanical door opening via app with auth0 autentication
-| 
-| Websockets, Python, Auth0
-
-| https://youtu.be/9EZ3YFH_VWI[Hidden wireless chargning system]
-| This is a hidden wireless charger I did for my bedroom. FALTA FOTO
-| Electronics
+| https://youtu.be/VqdY0pSfJUc[Raspberry pi-controlled RGB lights]
+| A homemade RGB lights controlled via a webpage running in a raspberry in my local network.
+| Analog and digital electronics, Python, Linux
 
 | Lissajous courves generator robot.
 | A funny project I did while in quarintine. https://youtu.be/0zp_q6OYYE0[Video 1], https://youtu.be/nYk-S-x_AAA[Video 2].
 | Electronics (arduino and stepper motors)
 
+| https://youtu.be/9EZ3YFH_VWI[Hidden wireless chargning system]
+| This is a hidden wireless charger I did for my bedroom. FALTA FOTO
+| Electronics
+
 | Sound-synchronized RGB lights.
 | A funny project I did for a party. https://www.youtube.com/watch?v=w__XhEV1nsE[Video 1], https://youtu.be/vwnyji0PDqs[Video 2]
 | Analog and digital electronics, Arduino
 
-| Multiplayer real-time cards game
-| 
+| http://juegodelbus.es/[Multiplayer real-time cards game]
+| A classic Spanish cards game made online during the quarintine! The repo is open https://github.com/gferrate/juego_del_bus[here].
 | Python, Websockets, Javascript
 
 | Multi-thousand visited https://www.drunk-translator.com/?lang=eng[prank webpage]
-| This is a prank webpage which simulates drunk behaviour. With over 17K visits.
+| This is a prank webpage which simulates drunk behaviour. With over 20K visits.
 | Javascript, HTML
 
 | https://gferrate.github.io/[Interactive CV]
 | A funny way to present myself.
 | Javascript, HTML
-
-| View Instagram Likes webpage
-| Designed a workaround to defeat Instagram's new policy of not showing the number of likes of a given post. As the live demo may be down, here are some link:instagram_likes[pictures].
-| Python, HTML, Javascript
 
 |===
 
