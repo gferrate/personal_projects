@@ -17,6 +17,10 @@ This repo is a list of the personal projects that I've done so far.
 | A classic Spanish cards game made online during the quarintine! The repo is open https://github.com/gferrate/juego_del_bus[here].
 | Python, Websockets, Javascript
 
+| https://youtu.be/_1j-8boMRDQ[Automatic door control with auth0 autentication]
+| I engineered a system to open and close BMAT's headquerter's office with auth0 autentication and access control (taking into account geolocation).
+| Analog and digital electronics, Raspberry pi, Python, Websockets.
+
 | https://youtu.be/V6g_3A1sJ08[Nixie Clock]
 | A simple clock made with nixie lamps.
 | Analog and digital electronics, Arudino.
