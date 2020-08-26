@@ -7,7 +7,51 @@ This repo is a list of the personal projects that I've done so far.
 
 | https://www.youtube.com/watch?v=xIo1AV4bAkE[Full Size Analog Synthesiser and 8-Step sequencer]
 | This is my final thesis project I did @ Purdue University. Whole project information https://upcommons.upc.edu/handle/2117/132157[here].
-| Advanced analog electronics
+| Advanced analog electronics 🎹
+
+| Nixie Clock
+| 
+| Analog and digital electronics
+
+| LIFI transceiver
+| 
+| Analog and digital electronics
+
+| Raspberry pi-controlled RGB lights
+| 
+| Analog and digital electronics, Python
+
+| Automatic mechanical door opening via app with auth0 autentication
+| 
+| Websockets, Python, Auth0
+
+| Hidden wireless chargning system
+| 
+| Electronics
+
+| Lissajous courve generator robot
+| 
+| Electronics (arduino and stepper motors)
+
+| RGB lights with music synchrony
+| 
+| Analog and digital electronics, Arduino
+
+| Multiplayer real-time cards game
+| 
+| Python, Websockets, Javascript
+
+| Multi-thousand visited https://www.drunk-translator.com/?lang=eng[prank webpage]
+| This is a prank webpage which simulates drunk behaviour. With over 17K visits.
+| Javascript, HTML
+
+| https://gferrate.github.io/[Interactive CV]
+| A funny way to present myself.
+| Javascript, HTML
+
+| View Instagram Likes webpage
+| Designed a workaround to defeat Instagram's new policy of not showing the number of likes of a given post. As the live demo may be down, here are some link:instagram_likes[pictures].
+| Python, HTML, Javascript
 
 |===
 
