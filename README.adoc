@@ -11,7 +11,7 @@ This repo is a list of the personal projects that I've done so far.
 
 | http://www.viewinstagramlikes.com/[View Instagram Likes webpage]
 | Designed a workaround to defeat Instagram's new policy of not showing the number of likes of a given post. As the live demo may be down, here are some link:instagram_likes[pictures].
-| Python, HTML, Javascript
+| Python, Docker, chromedriver, HTML, Javascript
 
 | http://juegodelbus.es/[Multiplayer real-time cards game]
 | A classic Spanish cards game made online during the quarintine! The repo is open https://github.com/gferrate/juego_del_bus[here].
