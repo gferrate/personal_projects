@@ -29,6 +29,14 @@ This repo is a list of the personal projects that I've done so far.
 | This project was done during my bachelor's degree @ UPC with a team of 10 people.
 | Analog and digital electronics, Microcontroller, sound processing.
 
+| https://gferrate.github.io/[Interactive CV]
+| A funny way to present myself.
+| Javascript, HTML
+
+| https://github.com/gferrate/sudoku_solver[Sudoku Solver]
+| A neat recursive algorythm for solving Sudoku puzzles
+| Python
+
 | https://youtu.be/VqdY0pSfJUc[Raspberry pi-controlled RGB lights]
 | A homemade RGB lights controlled via a webpage running in a raspberry in my local network.
 | Analog and digital electronics, Python, Linux
@@ -47,10 +55,6 @@ This repo is a list of the personal projects that I've done so far.
 
 | Multi-thousand visited https://www.drunk-translator.com/?lang=eng[prank webpage]
 | This is a prank webpage which simulates drunk behaviour. With over 20K visits.
-| Javascript, HTML
-
-| https://gferrate.github.io/[Interactive CV]
-| A funny way to present myself.
 | Javascript, HTML
 
 |===
