@@ -9,8 +9,8 @@ This repo is a list of the personal projects that I've done so far.
 | This is my final thesis project I did @ Purdue University. Whole project information https://upcommons.upc.edu/handle/2117/132157[here]. And more link:analog_synth[pictures here].
 | Advanced analog electronics
 
-| https://github.com/gferrate/pytorch_federated_learning[Federated Learning Pytorch framework]
-| Final thesis project @ King's College.
+| https://github.com/gferrate/pytorch_federated_learning[Open Source Federated Learning Pytorch framework]
+| Final thesis project @ https://www.kcl.ac.uk/[King's College].
 | Pytorch, Python, Docker
 
 | http://www.viewinstagramlikes.com/[View Instagram Likes webpage]
