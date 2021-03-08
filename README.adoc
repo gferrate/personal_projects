@@ -13,6 +13,10 @@ This repo is a list of the personal projects that I've done so far.
 | Final thesis project @ https://www.kcl.ac.uk/[King's College].
 | Pytorch, Python, Docker
 
+| https://royalties-calculator.com/[Royalties Calculator]
+| Fun project for knowing how much an artist makes through streaming platflorms @ https://royalties-calculator.com/
+| Redis, Flask, docker-compose, Docker
+
 | http://www.viewinstagramlikes.com/[View Instagram Likes webpage]
 | Designed a workaround to defeat Instagram's new policy of not showing the number of likes of a given post. As the live demo may be down, here are some link:instagram_likes[pictures].
 | Python, Docker, chromedriver, HTML, Javascript
